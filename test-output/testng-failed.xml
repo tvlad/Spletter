@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="spletterTest._02_SignInTests">
+        <methods>
+          <include name="setUp"/>
+          <include name="_09_T_SignUp"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- spletterTest._02_SignInTests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

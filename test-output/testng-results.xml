@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62159" started-at="2015-03-30T14:35:08Z" finished-at="2015-03-30T14:36:10Z">
+    <groups>
+      <group name="SignIn">
+        <method signature="_02_SignInTests._01_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_01_T_SignIn" class="spletterTest._02_SignInTests"/>
+        <method signature="_02_SignInTests._02_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_02_T_SignIn" class="spletterTest._02_SignInTests"/>
+        <method signature="_02_SignInTests._03_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_03_T_SignIn" class="spletterTest._02_SignInTests"/>
+        <method signature="_02_SignInTests._04_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_04_T_SignIn" class="spletterTest._02_SignInTests"/>
+        <method signature="_02_SignInTests._05_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_05_T_SignIn" class="spletterTest._02_SignInTests"/>
+        <method signature="_02_SignInTests._06_T_SignUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_06_T_SignUp" class="spletterTest._02_SignInTests"/>
+        <method signature="_02_SignInTests._07_T_SignUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_07_T_SignUp" class="spletterTest._02_SignInTests"/>
+        <method signature="_02_SignInTests._08_T_SignUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_08_T_SignUp" class="spletterTest._02_SignInTests"/>
+        <method signature="_02_SignInTests._09_T_SignUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_09_T_SignUp" class="spletterTest._02_SignInTests"/>
+      </group> <!-- SignIn -->
+    </groups>
+    <test name="Default test" duration-ms="62159" started-at="2015-03-30T14:35:08Z" finished-at="2015-03-30T14:36:10Z">
+      <class name="spletterTest._02_SignInTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="setUp" is-config="true" duration-ms="6527" started-at="2015-03-30T17:35:08Z" finished-at="2015-03-30T17:35:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="_01_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_01_T_SignIn" duration-ms="4348" started-at="2015-03-30T17:35:15Z" finished-at="2015-03-30T17:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _01_T_SignIn -->
+        <test-method status="PASS" signature="_02_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_02_T_SignIn" duration-ms="46" started-at="2015-03-30T17:35:19Z" finished-at="2015-03-30T17:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _02_T_SignIn -->
+        <test-method status="PASS" signature="_03_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_03_T_SignIn" duration-ms="32" started-at="2015-03-30T17:35:19Z" finished-at="2015-03-30T17:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _03_T_SignIn -->
+        <test-method status="PASS" signature="_04_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_04_T_SignIn" duration-ms="28" started-at="2015-03-30T17:35:19Z" finished-at="2015-03-30T17:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _04_T_SignIn -->
+        <test-method status="PASS" signature="_05_T_SignIn()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_05_T_SignIn" duration-ms="2833" started-at="2015-03-30T17:35:19Z" finished-at="2015-03-30T17:35:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _05_T_SignIn -->
+        <test-method status="PASS" signature="_06_T_SignUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_06_T_SignUp" duration-ms="15323" started-at="2015-03-30T17:35:22Z" finished-at="2015-03-30T17:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _06_T_SignUp -->
+        <test-method status="PASS" signature="_07_T_SignUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_07_T_SignUp" duration-ms="15822" started-at="2015-03-30T17:35:37Z" finished-at="2015-03-30T17:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _07_T_SignUp -->
+        <test-method status="PASS" signature="_08_T_SignUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_08_T_SignUp" duration-ms="2072" started-at="2015-03-30T17:35:53Z" finished-at="2015-03-30T17:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _08_T_SignUp -->
+        <test-method status="PASS" signature="_09_T_SignUp()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="_09_T_SignUp" duration-ms="14505" started-at="2015-03-30T17:35:55Z" finished-at="2015-03-30T17:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _09_T_SignUp -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:spletterTest._02_SignInTests@340f438e]" name="afterTest" is-config="true" duration-ms="599" started-at="2015-03-30T17:36:10Z" finished-at="2015-03-30T17:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- spletterTest._02_SignInTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
